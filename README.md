@@ -3,6 +3,8 @@ Repository for the first AIM Hackathon together with TIMETOACT GROUP Österreich
 
 Challenge explanation and ideas can be found in the [slides](https://timetoactgroup-my.sharepoint.com/:p:/g/personal/felix_krause_timetoact_at/ERZIULziE5pIu7F8MmgPxHwBVuhy9USUtioJsX_Y_31c_g?e=wrWNH4)
 
+The slides of Daniel Weller's Keynote are [here](https://timetoactgroup-my.sharepoint.com/:p:/r/personal/daniel_weller_timetoact_at/Documents/AIM%202024%20Hackathon%20-%20Keynote.pptx?d=w4739bf0698b145e3999cc9bfc400de03&csf=1&web=1&e=Dnaoqe).
+
 <br>
 
 ## Set up OpenAI API Key
